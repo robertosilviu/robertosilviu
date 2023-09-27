@@ -1,18 +1,40 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**robertosilviu/robertosilviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a dedicated and enthusiastic Master's degree student pursuing a degree in Robotics Engineering, with a strong passion for robotics, autonomous driving, and cutting-edge technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
 
-[![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertosilviu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- 📚 **Master's Degree in Robotics Engineering** - University Of Pisa
+- 📖 **Bachelor's Degree in Computer Engineering** - University of Pisa
+
+## Research Interests
+
+- 🤖 **Robotics**
+
+- 🚗 **Autonomous Driving**
+
+- 🌐 **Artificial Intelligence**
+
+## Projects
+
+Here are some of the projects I have worked on:
+
+- 🏎️ **[Indy Autonomous Challenge](https://www.indyautonomouschallenge.com/)**
+- 🏎️ **[Roborace](https://roborace.com/)**
+
+## Skills
+
+- **Programming Languages**: Python, C++, C#
+- **Robotics Frameworks**: ROS/ROS2 (Robot Operating System), MQTT
+- **Version Control**: Git, GitHub, Gitlab CI/CD
+- **Others**: Docker
+
+## Connect with Me
+
+I'm always excited to collaborate and learn from others who share my passion for robotics and autonomous driving. Feel free to connect with me on:
+
+- [GitHub](https://github.com/robertosilviu)
+- [LinkedIn](https://www.linkedin.com/in/roberto-silviu-popitanu)
+- [Personal Website](https.robertosilviu.com)
